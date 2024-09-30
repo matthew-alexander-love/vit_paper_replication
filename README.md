@@ -9,9 +9,9 @@ The Vision Transformer (ViT) introduces a novel approach to image classification
 
 In this project, you can find:
 
-    Supervised learning with and without pretraining: Models trained from scratch as well as pre-trained models adapted for vision tasks.
-    Efficient training and evaluation loops: Custom training code in engine.py with utilities for flexible experimentation.
-    Helper functions: Various utilities in helper_functions.py for logging, metric calculations, and more.
+ - Supervised learning with and without pretraining: Models trained from scratch as well as pre-trained models adapted for vision tasks.
+ - Efficient training and evaluation loops: Custom training code in engine.py with utilities for flexible experimentation.
+ - Helper functions: Various utilities in helper_functions.py for logging, metric calculations, and more.
 
 ## Setup
 
