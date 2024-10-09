@@ -1,7 +1,6 @@
 # Vision Transformer (ViT) - PyTorch Implementation
 
 This repository contains my implementation of the Vision Transformer (ViT), based on the original paper by Dosovitskiy et al., in PyTorch. The implementation replicates key aspects of the Vision Transformer model, with adaptations and modifications for supervised learning both with and without pretraining.
-Project Structure
 
 ## Overview
 
